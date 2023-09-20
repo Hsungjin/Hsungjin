@@ -64,11 +64,5 @@
 <br/>
 <hr/>
 
-![Hsungjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsungjin&show_icons=true&theme=blue-green)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=유저네임)](https://solved.ac/hsungjin)
-
+![Hsungjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsungjin&show_icons=true&theme=blue-green)              
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsungjin)](https://solved.ac/hsungjin)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={hsungjin})](https://solved.ac/{hsungjin})
