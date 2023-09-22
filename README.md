@@ -49,7 +49,7 @@
 <br/>
 
 ## 🤙 Contacts
-<center><a href="mailto:hsungjin142@gmail.com"><img src="https://img.shields.io/badge/hsungjin14@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>  
+<center><a href="mailto:hsungjin142@gmail.com"><img src="https://img.shields.io/badge/hsungjin142@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>  
 <br/>
 <a href="https://sj-d.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="https://www.instagram.com/hsungjin98/"><img src="https://img.shields.io/badge/Hsungjin98-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> 
