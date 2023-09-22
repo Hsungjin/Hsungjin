@@ -59,7 +59,6 @@
 <a href="https://github.com/Hsungjin/"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br/> 
 
-📱 010-3876-3069
 </center>
 <br/>
 <hr/>
