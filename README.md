@@ -9,7 +9,8 @@
 <br/>
 <br/>
 
-## 🧑🏻 Introduce <br/>
+## 🧑🏻 Introduce 
+<br/>
 * 소프트웨어학과 전공, 머신러닝 학부연구생 출신, <br/>
   2021년 2월 졸업. <br/>
 * iOS개발에 관심이 있으며, UIkit, Swift 기초 문법 공부중,<br/>
@@ -19,7 +20,8 @@
     앱스토어에 작업물 등록이 목표!<br/>
 * ROTC 59기<br/>
 
-## 🔖 Project <br/>
+## 🔖 Project 
+<br/>
 * YOLO V3 를 활용한 포트홀탐지, 2020.03 ~ 06
   * 프로젝트 리드
   * 데이터 전처리, 파라미터 튜닝, 모델학습
@@ -35,12 +37,15 @@
   * Android 애플리케이션 구현
   * ngrok를 활용한 실시간 전송 서버 구현
 
-## 🏫 Education <br/>
+## 🏫 Education 
+<br/>
 * 소프트웨어, 상명대학교, 2021년 2월 졸업
   
-## 📚 Studying <br/>
+## 📚 Studying 
 <br/>
-<center><a href="https://www.swift.org/"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> </a>
+<br/>
+<center>
+<a href="https://www.swift.org/"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> </a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> </a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> </a>
 <br/>
@@ -52,7 +57,8 @@
 
 ## 🤙 Contacts
 <br/>
-<center><a href="mailto:hsungjin142@gmail.com"><img src="https://img.shields.io/badge/hsungjin142@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>  
+<center>
+<a href="mailto:hsungjin142@gmail.com"><img src="https://img.shields.io/badge/hsungjin142@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>  
 <br/>
 <a href="https://sj-d.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="https://www.instagram.com/hsungjin98/"><img src="https://img.shields.io/badge/Hsungjin98-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> 
