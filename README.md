@@ -1,24 +1,77 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHsungjin&count_bg=%2350BAEC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Hsungjin)
 
-<br/>
+<br>
 
 <center>
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=iOS%20Developer&fontAlignY=45&fontSize=40&height=150&desc=황성진&descAlignY=70">  
 </center>
 
-<br/>
+<br>
 
 ## 🧑🏻 Introduce
-* 소프트웨어학과 전공, 머신러닝 학부연구생 출신, <br/>
-  2021년 2월 졸업. <br/>
-* iOS개발에 관심이 있으며, UIkit, Swift 기초 문법 공부중,<br/>
-  기존 Python을 이용해 이미지 처리 관련개발, Linux 서버 관리,<br/>
-  데이터 전처리 경험이 있음.<br/>
-* 협업 관련 프레임워크, 경험이 적어 멋쟁이사자처럼을 통해 협업에 도전하고 <br/>
-    앱스토어에 작업물 등록이 목표!<br/>
-* ROTC 59기<br/>
+--------------
+
+#### 개발자로서,
+
+- 저는 지속적인 개선과 반응형 개발을 중시합니다. 사용자의 피드백을 적극적으로 수집하고 분석하여, 그 결과를 바탕으로 앱의 기능을 지속적으로 업데이트하고 개선합니다. 이 과정에서 팀 내외부의 다양한 이해관계자와 긴밀히 협력하여, 사용자 중심의 가치를 제공하는 것을 목표로 합니다.
+
+<br>
+
+- 초기에는 기본적인 기능에 집중하여 최소한의 제품(MVP)을 출시하고, 이를 통해 얻은 사용자의 의견과 데이터 분석 결과를 바탕으로 기능을 점진적으로 확장해 나갑니다. 사용자 경험을 최우선으로 생각하며, 사용자가 직면할 수 있는 문제를 예측하고 해결책을 제시하는 데 중점을 둡니다.
+
+<br>
+
+- 새로운 기술과 방법론에 대한 호기심과 배움의 욕구를 가지고 있으며, 정기적인 코드 리뷰와 팀 내 지식 공유 세션을 통해 지속적으로 성장하고자 합니다. 다양한 배경과 경험을 가진 동료들로부터 배우며, 제 지식과 경험도 공유하여 팀의 기술적 역량을 강화합니다.
+
+<br>
+
+#### 팀원으로서,
+
+- 저는 팀 내에서 긍정적이고 활기찬 분위기를 조성하는 데 기여하며, 서로를 격려하고 지원함으로써 팀원 모두가 함께 성장하고 발전할 수 있는 환경을 만들어가는 데 중점을 둡니다.
+
+<br>
+
+- 군대에서의 장교로 근무한 경험을 바탕으로, 큰 목표를 향해 팀이 함께 나아갈 수 있도록 전략적인 관점에서 기여하며, 문제가 발생했을 때는 팀원들과 함께 소통하고 협력하여 해결책을 찾습니다.
+
+<br>
+
+- 갈등 상황에서는 상호 존중과 이해를 바탕으로 대화를 시작하며, 문제를 원만하게 해결하고 팀의 단합을 이루는 데 집중합니다. 이를 통해 조직 내에서의 긍정적인 시너지 효과를 극대화합니다.
+
+<br>
+
+- 제 경험과 배움을 동료들과 공유하며, 서로의 성장을 돕고 팀이 하나의 목표를 향해 나아갈 수 있도록 지원합니다. 서로의 다양한 경험과 지식을 공유하며, 함께 성장하는 것을 가장 큰 가치로 여깁니다.
+
+<br>
 
 ## 🔖 Project
+----------------
+
+#### PADO
+
+- Firebase를 이용한 안티 SNS 로 내 친구가 내 피드를 꾸며주는 앱
+
+<img src="https://github.com/4T2F/PADO/assets/120264964/d84abf6a-8a37-4b95-9cdf-5bca70bfa728" width="49%"> <img src="https://github.com/4T2F/PADO/assets/120264964/33533b88-c9d8-44e3-9521-dff02ffa72be" width="49%"> 
+<img src="https://github.com/4T2F/PADO/assets/120264964/339b0b08-78ab-4fef-b4df-90a8fa4a977e" width="49%"> <img src="https://github.com/4T2F/PADO/assets/120264964/981eb061-3985-4aad-b7c8-63792e129799" width="49%">
+<br/>
+
+- [PADO README](https://github.com/4T2F/PADO)
+- [PADO AppStore](https://apps.apple.com/kr/app/pado-%ED%8C%8C%EB%8F%84/id6475384446)
+- [관련 회고글]()
+- 담당 파트 : Firebase, 이미지관련 처리
+- 진행기간 : 2024.01 ~ 2024.02(8주)
+- MVVM, SingleTon, Firebase, Image, Async, FCM
+
+
+#### TouchSchool
+
+#### CYC
+
+<details>
+<summary>Machine Learning</summary>
+<br>
+
+[관련 기술블로그]("https://sj-d.tistory.com/")
+
 * YOLO V3 를 활용한 포트홀탐지, 2020.03 ~ 06
   * 프로젝트 리드
   * 데이터 전처리, 파라미터 튜닝, 모델학습
@@ -34,10 +87,18 @@
   * Android 애플리케이션 구현
   * ngrok를 활용한 실시간 전송 서버 구현
 
+</details>
+
+<br>
+
 ## 🏫 Education
-* 소프트웨어, 멋진대학, 2021년 2월 졸업
+-----------------
+
+* 상명대학교, 소프트웨어학과, 2021년 2월 졸업
+
+* 멋쟁이 사자처럼 앱스쿨 3기
   
-## 📚 Studying
+## 📚 Skills
 <center><a href="https://www.swift.org/"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> </a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> </a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> </a>
