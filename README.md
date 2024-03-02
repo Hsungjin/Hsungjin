@@ -9,7 +9,6 @@
 <br>
 
 ## 🧑🏻 Introduce
---------------
 
 #### 개발자로서,
 
@@ -44,9 +43,8 @@
 <br>
 
 ## 🔖 Project
-----------------
 
-#### PADO
+### PADO
 
 - Firebase를 이용한 안티 SNS 로 내 친구가 내 피드를 꾸며주는 앱
 
@@ -62,15 +60,39 @@
 - MVVM, SingleTon, Firebase, Image, Async, FCM
 
 
-#### TouchSchool
+### TouchSchool
 
-#### CYC
+- 사용자의 터치를 통해 학교 순위를 올려 경쟁하는 앱
+
+<img src="https://github.com/Hsungjin/Hsungjin/assets/120264964/0de77e17-5f85-4e78-a8e5-f8c37e946ff8" width="19%" height="20%"> <img src="https://github.com/Hsungjin/Hsungjin/assets/120264964/d35f6468-b767-4ceb-b11a-fd27b469c35a" width="19%" height="20%"> <img src="https://github.com/Hsungjin/Hsungjin/assets/120264964/b50d5c2a-6434-47c1-ae95-c881f3bad0f8" width="19%" height="20%"> <img src="https://github.com/Hsungjin/Hsungjin/assets/120264964/31de644a-ad4b-41e5-9a32-183951cd22bd" width="19%" height="20%"> <img src="https://github.com/Hsungjin/Hsungjin/assets/120264964/c3e76c9d-16fe-471d-830d-ad9bbe3b11da" width="19%" height="20%">
+<br/>
+
+- [TouchSchool README](https://github.com/Hsungjin/TouchSchool/blob/main/README.md)
+- [TouchSchool AppStore](https://apps.apple.com/kr/app/touchschool-%ED%84%B0%EC%B9%98-%ED%84%B0%EC%B9%98-%ED%95%99%EA%B5%90%EB%8C%80%ED%95%AD%EC%A0%84/id6474486132)
+- [관련 회고글]()
+- 담당 파트 : Firebase, RESTful API, AVFoundation
+- 진행기간 : 2023.09 ~ 2023.10(8주)
+- MVVM, SingleTon, Firebase, RESTful API, AVFoundation, MultiTouch
+
+### CYC
+
+- Github API를 이용해 사용자의 커밋을 확인해주고 독려해주는 앱
+
+<img src="https://github.com/APP-iOS3rd/PJ2T2_CYC/assets/120264964/ca70e57d-05f5-4bbb-a779-0b0bf6c4a989" width="">
+
+<br/>
+
+- [CYC README](https://github.com/4T2F/CYC)
+- [관련 회고글]()
+- 담당 파트 : RESTful API, AVFoundation
+- 진행기간 : 2023. 12 ~ 2023.12(1주)
+- MVVM, SingleTon, RESTful AP
 
 <details>
 <summary>Machine Learning</summary>
 <br>
 
-[관련 기술블로그]("https://sj-d.tistory.com/")
+[관련 기술블로그](https://sj-d.tistory.com/)
 
 * YOLO V3 를 활용한 포트홀탐지, 2020.03 ~ 06
   * 프로젝트 리드
@@ -92,7 +114,6 @@
 <br>
 
 ## 🏫 Education
------------------
 
 * 상명대학교, 소프트웨어학과, 2021년 2월 졸업
 
