@@ -1,6 +1,6 @@
 👋 Hi, I’m Sungjin
 
-👀 I’m interested in Swift, ML
+👀 I’m interested in Swift, ML, Image
 
 🌱 I’m currently learning Swift, Python
 
