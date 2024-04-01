@@ -1,4 +1,4 @@
-👋 Hi, I’m Sungjin
+👋 Hi, I’m SungJin Hwang
 
 👀 I’m interested in Swift, ML, Image
 
