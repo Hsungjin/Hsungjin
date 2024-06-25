@@ -1,5 +1,9 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Hsungjin"/>
+<img
+  src="https://render.gitanimals.org/farms/Hsungjin"
+  width="600"
+  height="300"
+/>
 </a>
 
 👋 Hi, I’m SungJin Hwang
