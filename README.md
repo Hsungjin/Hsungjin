@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Hsungjin"/>
+</a>
+
 👋 Hi, I’m SungJin Hwang
 
 👀 I’m interested in Swift, ML, Image
