@@ -8,7 +8,7 @@
 
 👋 Hi, I’m SungJin Hwang
 
-👀 I’m interested in Swift, ML, Image
+👀 I’m interested in Flutter, Swift, ML, Image
 
 🌱 I’m currently learning Swift, Python
 
